@@ -1,4 +1,4 @@
-### Olá! Eu sou a Dandara Silva, atualmente desenvolvedora back-end em python, porém possuo uma paixão pelo front-end! 👋
+### 👋 Olá! Eu sou a Dandara Silva, atualmente desenvolvedora back-end em python, porém gosto de me aventurar no front-end! 
 
 - 🔭 Hoje eu trabalho com backend
 - 🌱 Estudando Python, AWS, ReactJS
