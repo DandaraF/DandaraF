@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dandara Silva, atualmente desenvolvedora back-end em python, porém gosto de me aventurar no front-end!  👋 
 
 - 🔭 Hoje eu trabalho com backend em Python
-- 🌱 Estudando Python, AWS, ReactJS, VueJS e Django.
+- 🌱 Estudando Python, AWS, ReactJS.
 - 💬 Contate-me no email: dandara.fsilva@hotmail.com
 
 
@@ -20,7 +20,7 @@
   <img align="center" alt="Dandara-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Dandara-VueJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg"/>
 
-<img align="center" alt="Dandara-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+/*<img align="center" alt="Dandara-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />*/
           
   ##
   
