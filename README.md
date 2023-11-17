@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com Python, AWS(Lambda, Batch, S2 e CloudWatch),DynamoDB, Microsoft SQL Server, Flask, GIT e testes(BDD e TDD).
 - 🌱 Estudando Angular, Javascript, HTML, CSS, bootstrap e C#.
-- 💬 Contate-me no email: dandara.fsilva@hotmail.com
 
 
 <div align="center">
@@ -28,5 +27,7 @@
                    
   
   ##
+
+  - 💬 Contate-me no email: dandara.fsilva@hotmail.com
   
   <a href="https://www.linkedin.com/in/dandarafsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
