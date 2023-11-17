@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Dandara Silva, atualmente desenvolvedora back-end em python, porém gosto de me aventurar no front-end!  👋 
 
-- 🔭 Hoje eu trabalho com backend em Python
-- 🌱 Estudando Python, AWS, ReactJS, Angular, Javascript, HTML, CSS e C#.
+- 🔭 Atualmente trabalho com Python, AWS(Lambda, Batch, S2 e CloudWatch),DynamoDB, Microsoft SQL Server, Flask, GIT e testes(BDD e TDD).
+- 🌱 Estudando Angular, Javascript, HTML, CSS, bootstrap e C#.
 - 💬 Contate-me no email: dandara.fsilva@hotmail.com
 
 
