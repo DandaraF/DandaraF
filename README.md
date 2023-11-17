@@ -30,6 +30,3 @@
   ##
   
   <a href="https://www.linkedin.com/in/dandarafsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:dandara.fsilva@hotmail.com" target="_blank" style="text-decoration: none; color: black"><img width="24" height="24" src="https://img.icons8.com/color/48/ms-outlook.png" alt="ms-outlook"/>E-mail</a>
-
-  
